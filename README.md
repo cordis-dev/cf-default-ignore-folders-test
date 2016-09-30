@@ -1,0 +1,1 @@
+# cf-default-ignore-folders-test
